@@ -1,2 +1,2 @@
 # randomchooser
-Random choosing of actions
+Random choosing of actions by given probabilities
